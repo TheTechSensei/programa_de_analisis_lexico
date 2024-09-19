@@ -18,14 +18,7 @@ Este proyecto implementa un **analizador léxico** (lexer) en Java para un lengu
 
 ## Pasos para Compilar y Ejecutar
 
-1. **Clonar el repositorio o descargar los archivos**:
-
-   ```bash
-   git clone <URL-de-tu-repositorio>
-   cd programa_de_analisis_lexico
-   ```
-
-2. **Compilar los archivos Java**:
+1. **Compilar los archivos Java**:
 
    Para compilar los archivos `Lexer.java`, `Main.java`, y `Token.java`, ejecuta:
 
@@ -35,7 +28,7 @@ Este proyecto implementa un **analizador léxico** (lexer) en Java para un lengu
 
    Esto generará archivos `.class` para cada uno de los archivos fuente.
 
-3. **Ejecutar el programa**:
+2. **Ejecutar el programa**:
 
    Luego, ejecuta el programa con el siguiente comando:
 
